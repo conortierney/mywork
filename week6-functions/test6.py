@@ -16,3 +16,4 @@ def displayModules(modules):
    print ("\tName \tGrade")
    for module in modules:
      print (f"\t module["name"]} \t{ module['grade']}")
+
