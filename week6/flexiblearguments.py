@@ -36,6 +36,7 @@ def ave(*values):
 
 
 av1, sum_of_numbers = ave(1, 2, 3, 4, 5, 6)    # error as not defined somewhere
+
 print(f"{av1} and sum is {sum_of_numbers}")
 
 
