@@ -6,7 +6,7 @@
 
 ### Contents Table
 
-*File Description
+*File Description  
 *Weekly Tasks
   1. HelloWorld!
   2. bank.py
@@ -61,16 +61,16 @@ this is to avoid rounding errors.
 **Screenshot of bank.py code from my VSCode ( saved in issues on github)**
 ![image](https://user-images.githubusercontent.com/123323783/230906661-19ba745c-17e3-432d-afcf-6dd9284c2b0a.png)
 
-***user calls:***
+***user calls:***  
 `python bank.py`
 
-***user input:***
+***user input:***  
 `enter amount1(in cents):65`
 
 `enter amount2(in cents):180`
 
 
-***the output is:***
+***the output is:***  
 `the sum of these is: €2.45`
 
 
