@@ -114,7 +114,7 @@ Part 2: The program is modified to deal with user input of an acoount of any len
 `bankaccnumber:  XXXXXX`  
 
 ***References/sources:***  
-[A Whirlwind Tour of Python]
+[A Whirlwind Tour of Python]  
 [geeksforgeeks.org](https://www.geeksforgeeks.org/string-slicing-in-python/)  
 
 ___
