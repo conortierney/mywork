@@ -125,7 +125,7 @@ This program is called collatz.py.
 *It asks the user to input any positive integer and outputs the successive values of a calculation in the program. At each step it calculates the next value by taking the current value and, if it is even, divides it by two, but if it is odd, multiplies it by three and add's one. The program ends if the current value is equal to one*
 
 
-
+gfgfgf
 
 
 
