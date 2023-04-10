@@ -124,7 +124,12 @@ ___
 This program is called collatz.py.  
 *It asks the user to input any positive integer and outputs the successive values of a calculation in the program. At each step it calculates the next value by taking the current value and, if it is even, divides it by two, but if it is odd, multiplies it by three and add's one. The program ends if the current value is equal to one*
 
-***note:*** To account for the user entering a negative number, the program includes a while loop and and error message so that the user is promted again to enter a POSITIVE number. 
+
+I added some code to handle negative numbers in the program, even though it wasn't necessary. I did this using a while loop and an error message so that the user is prompted again to enter a POSITIVE number.
+
+In the program, I check if a number is odd or even by using another while. The program keep doing this until it reaches the number 1. If and else statements are used. If the number is even, it's divided by 2 and print the result. If the number is odd, it's multiplied by 3 and add 1, and then print the result.
+
+
 
 
 
