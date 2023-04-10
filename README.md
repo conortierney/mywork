@@ -4,15 +4,9 @@
 
 ### Author: Conor Tierney
 
-
-This readme file is related to the tasks outlined for the pands problem sheets for Programming and Scripting module in HDip in computing in Data Analytics.
-
-The file here will explain the code, input and output for each task. It will also reference any sources used to solve and test the tasks.
-
-Most of my problem solving for the tasks was gained throught practicing python coding in Andrew Beatty's lectures and weekley labs.
-
-
 ## Contents Table
+
+*File Description
 
 *Weekly Tasks
   1. HelloWorld!
@@ -23,6 +17,18 @@ Most of my problem solving for the tasks was gained throught practicing python c
   6. squareroot.py
   7. es.py
   8. plottask.py
+
+
+
+### Description
+This readme file is related to the tasks outlined for the pands problem sheets for Programming and Scripting module in HDip in computing in Data Analytics.
+
+The file here will explain the code, input and output for each task. It will also reference any sources used to solve and test the tasks.
+
+Most of my problem solving for the tasks was gained throught practicing python coding in Andrew Beatty's lectures and weekley labs.
+
+
+
 
 
 
