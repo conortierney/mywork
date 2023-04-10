@@ -169,21 +169,7 @@ Today is then defined if today is a weekday as an integer.
 `today = datetime.datetime.today().weekday()`  # where monday =0 and Sunday= 6.  
 
 The *if* statement is used to check if today is a weekday. If it is not a weekday when the program is run the *else* statement is used to let the user know it is a weekend day. 
-The program will have different ouptputs depending on the day the prorgan is run.
-
-
-
-
-
-
-
-
-
-
-
-
-
-There it was found that by implementing date.weekday(), where Monday is 0 and Sunday is 6, it can easily be checked, with the help of if statement, whether today is weekday or weekend.
+The program will have different ouptputs depending on the day the prorgam is run.
 
 It's important to run the program on both the weekday and weekend to get a correct result.  
 
@@ -207,6 +193,19 @@ It's important to run the program on both the weekday and weekend to get a corre
 ___
 
 ## squareroot.py
+
+This program is called squarerrot.py  
+
+* The program that takes a positive floating-point number as input and outputs an approximation of its square root.*  
+* The task asks to create your own sqrt function and not to use the built in functions x ** .5 or math.sqrt(x).*
+* This is to demonstrate that you can research and code a process.*
+* It is suggested suggested to look at the newton method at estimating square roots*  
+
+
+the program starts by defining a new function for square root `def sqrt():`  
+The program then eneters a while loop to prompt ans emsure the user enters a positive number.  
+The while loop stops if the user enteres a positive number. The else statement is uses if the user enters anyhting other than a psoitve number.  
+
 
 
 
