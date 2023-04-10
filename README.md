@@ -27,16 +27,21 @@ The file here will explain the code, input and output for each task. It will als
 
 Most of my problem solving for the tasks was gained throught practicing python coding in Andrew Beatty's lectures and weekley labs.
 
+VSCode sofware is used to code the programs.
+
 
 ### Weekly Tasks
 
 ## *Hello World!*
 
-Task 1 of the PANDS Problem Sheet was download and istall the software needed for the module. These were cmder (windows), anaconda, vscode, git and notepad++. After the required software was insatlled on my machine i created my github account and two repositories called ''mywork'' and ''pands-problem-sheet".
+Task 1 of the PANDS Problem Sheet was download and istall the software needed for the module. These were cmder (windows), anaconda, vscode, git and notepad++. After the required software was insatlled on my machine I created my github account and two repositories called ''mywork'' and ''pands-problem-sheet".
 
-The pands-problem-sheet contains a python program that displays Hello World! when it is run. 
+The pands-problem-sheet contains a python program that displays Hello World! when it is run. This is task 1.
 
-VSCode sofware is used to code the program.
+
+
+
+
 
 
 
