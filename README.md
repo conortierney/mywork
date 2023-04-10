@@ -131,21 +131,22 @@ In the program, I check if a number is odd or even by using another *while* loop
 *If* and *else* statements are used.  
 If the number is even, it's divided by 2 and print the result. If the number is odd, it's multiplied by 3 and add 1, and then print the result.  
 
-***user calls:*** 
+***user calls:***  
 `Please enter a positive number: 13`  
 
-***output if positive number entered:***
+***output if positive number entered:***  
 `13 40 20 10 5 16 8 4 2 1`  
 
-**user calls:*** 
+**user calls:***  
 `Please enter a positive number: -12`  
 
 **output if negative number entered:***  
 `-12 :isn't a positive number.`
 `Enter a positive number:`  
 
-***References/sources:*** 
-[W3schools, realpython.com (whileloops]
+***References/sources:***  
+[W3schools, realpython.com (whileloops]  
+
 [AUTOMATE THE BORING STUFF WITH PYTHON- flow control]  
 
 
