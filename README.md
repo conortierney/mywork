@@ -48,7 +48,7 @@ ___
 
 ## bank.py
 
-This program is called bank.py. When banks are storing currency figures, they stor them as integers (usually in cents).
+This program is called bank.py. When banks are storing currency figures, they store them as integers (usually in cents).
 this is to avoid rounding errors.
 
 *This program:*
@@ -57,6 +57,9 @@ this is to avoid rounding errors.
  * *Then prints out the answer in a readable format with a euro sign and a decimal point between the euro and cent of the amount.*
  
 ***Note:*** the idea here is to break the task down into smaller parts as I am new to coding. Read in an integer first and print it back out, then read in the second integer and add the two. Then format the answer.
+The answer is formated so that the total amount is has the euro sign and a decimal point.
+
+The program uses calculation of the given code based on the users in put of 2 numbers.
 
 **Screenshot of bank.py code from my VSCode ( saved in issues on github)**
 ![image](https://user-images.githubusercontent.com/123323783/230906661-19ba745c-17e3-432d-afcf-6dd9284c2b0a.png)
@@ -70,8 +73,12 @@ this is to avoid rounding errors.
 `enter amount2(in cents):180`
 
 
-***the output is:***  
+***output:***  
 `the sum of these is: €2.45`
+
+***References:***
+[W3 SCHOOLS](https://www.w3schools.com/python/python_numbers.asp)
+[Usinf f string](https://realpython.com/python-f-strings/)
 
 
 
