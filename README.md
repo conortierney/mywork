@@ -16,7 +16,7 @@
   6. squareroot.py
   7. es.py
   8. plottask.py
-* other/ refs
+* other/ refs/ readme file
 
 
 
@@ -69,3 +69,6 @@ this is to avoid rounding errors.
 
 
 
+
+
+# read me ref https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
