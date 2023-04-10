@@ -200,8 +200,8 @@ It's important to run the program on both the weekday and weekend to get a corre
 `Happy days, today is a weekend day.`  
 
  ***References/sources:***  
- [docs.python.org] (https://docs.python.org/3/library/datetime.html) [ library/datetime]  
- [Real Python : python 3 cheat sheet: chapters 3 and 4]  
+ [docs.python.org](https://docs.python.org/3/library/datetime.html)[library/datetime]  
+ [Real Python : Python 3 cheat sheet: chapters 3 and 4]  
  
 
 ___
