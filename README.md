@@ -34,9 +34,12 @@ VSCode sofware is used to code the programs.
 
 ## *Hello World!*
 
-Task 1 of the PANDS Problem Sheet was download and istall the software needed for the module. These were cmder (windows), anaconda, vscode, git and notepad++. After the required software was insatlled on my machine I created my github account and two repositories called ''mywork'' and ''pands-problem-sheet".
+Task 1 of the PANDS Problem Sheet was download and istall the software needed for the module. These were cmder (windows), anaconda, vscode, git and notepad++. 
+After the required software was insatlled on my machine I created my github account and two repositories called ''mywork'' and ''pands-problem-sheet".
 
-The pands-problem-sheet contains a python program that displays Hello World! when it is run. This is task 1.
+The pands-problem-sheet contains a python program that displays **Hello World!** when it is run. This is task 1.
+
+
 
 
 
