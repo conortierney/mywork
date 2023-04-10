@@ -56,8 +56,8 @@ this is to avoid rounding errors.
  * *Then adds the 2 amounts entered.*
  * *Then prints out the answer in a readable format with a euro sign and a decimal point between the euro and cent of the amount.*
  
-***Note:*** the idea here is to break the task down into smaller parts as I am new to coding. Read in an integer first and print it back out, then read in the second integer and add the two. Then format the answer.
-The answer is formated so that the total amount is has the euro sign and a decimal point.
+***Note:*** the idea here is to break the task down into smaller parts as I am new to coding. Read in the first amount and print it back out, then read in the second amount and add the two. Then format the answer.
+The answer is formated so that the total amount has the euro sign and a decimal point.
 
 The program uses calculation of the given code based on the users in put of 2 numbers.
 
