@@ -98,13 +98,13 @@ Then the *else* statement is used to print the account number with only the last
 
 Part 2: The program is modified to deal with user input of an acoount of any length.  
 
-***user calls:*** 
-`python accounts.py  
+***user calls:***  
+`python accounts.py`  
 
 ***user input 1:*** 
-`Please enter a 10-digit account number:0987654321  
+`Please enter a 10-digit account number:0987654321` 
 
-***output:***  
+***output:***    
 `Bank account number:  XXXXXX4321`  
 
 ***user input 2:***  
@@ -112,6 +112,8 @@ Part 2: The program is modified to deal with user input of an acoount of any len
 
 ***output:***  
 `bankaccnumber:  XXXXXX`  
+
+
 
 
 
