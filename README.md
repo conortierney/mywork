@@ -194,7 +194,7 @@ ___
 
 ## squareroot.py
 
-This program is called squarerrot.py  
+This program is called squareroot.py  
 
 * The program that takes a positive floating-point number as input and outputs an approximation of its square root.*  
 * The task asks to create your own sqrt function and not to use the built in functions x ** .5 or math.sqrt(x).*
@@ -202,12 +202,12 @@ This program is called squarerrot.py
 * It is suggested suggested to look at the newton method at estimating square roots*  
 
 
-the program starts by defining a new function for square root `def sqrt():`  
-The program then eneters a while loop to prompt ans emsure the user enters a positive number.  
-The while loop stops if the user enteres a positive number. The else statement is uses if the user enters anyhting other than a psoitve number.  
+The code defines a function called sqrt `def sqrt():` that calculates the square root of a positive number entered by the user. The function uses a *while* loop to prompt the user to enter a positive number and to ensure that the entered number is positive. 
+When a positive number is entered, the function initializes a guess for the square root and starts another *while* loop to calculate a better approximation for the square root using the Newton-Raphson method. 
+The loop continues until the difference between the new approximation and the previous approximation is less than *1e-9*, at which point the function returns the final approximation for the square root. 
+Finally, the function is called and the resulting approximation is printed to the console.
 
-
-
+The program code is a simple implementation of the Newton-Raphson method for approximating the square root of a number.
 
 
 
