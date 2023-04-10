@@ -43,5 +43,5 @@ plt.subplots_adjust(wspace=0.5)
 # Show the plots
 plt.show()
 
-
+## *terminal output in VSCODE not displaying Histogram. Error 13 displayed  - cannot fix this for now.#
 
