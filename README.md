@@ -137,10 +137,10 @@ If the number is even, it's divided by 2 and print the result. If the number is 
 ***output if positive number entered:***  
 `13 40 20 10 5 16 8 4 2 1`  
 
-**user calls:***  
+***user calls:***  
 `Please enter a positive number: -12`  
 
-**output if negative number entered:***  
+***output if negative number entered:***  
 `-12 :isn't a positive number.`
 `Enter a positive number:`  
 
@@ -153,10 +153,33 @@ If the number is even, it's divided by 2 and print the result. If the number is 
 
 ___
 
+## weekday.py  
+
+This program is called weekday.py  
+
+*This program outputs whether or not today is a weekday*
+
+The import function for date time is used (python built in functions).
+***code***
+`import datetime`  
+
+Today is then defined if today is a weekday as an integer.  
+
+***code***
+`today = datetime.datetime.today().weekday()`  # where monday =0 and Sunday= 6.  
+
+The *if* statement is used to check if today is a weekday. If it is not a weekday when the program is run the *else* statement is used to let the user know it is a weekend day. 
 
 
 
 
+
+
+
+
+There it was found that by implementing date.weekday(), where Monday is 0 and Sunday is 6, it can easily be checked, with the help of if statement, whether today is weekday or weekend.
+
+It's important to run the program on both the weekday and weekend to get a correct result.
 
 
 
