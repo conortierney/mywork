@@ -77,8 +77,26 @@ The program uses calculation of the given code based on the users in put of 2 nu
 `the sum of these is: €2.45`
 
 ***References/sources:***  
-[W3 SCHOOLS](https://www.w3schools.com/python/python_numbers.asp)  
+[W3 SCHOOLS NUMBERS](https://www.w3schools.com/python/python_numbers.asp)  
 [Using f string](https://realpython.com/python-f-strings/)  
+
+___
+
+## accounts.py  
+
+This program is called accounts.py.  
+
+**The task was to:**
+*Write a python program called accounts.py that reads in a 10 character account number and outputs the account number with only the last 4 digits showing (and the first 6 digits replaced with Xs).*
+*Extra: Modify the program to deal with account numbers of any length*  
+
+
+Context: bank account numbers can be stored as 10 character strings, some applications only display the last 4 characters(digits) with the first 6 characters displayed as X's for security reasons.
+
+
+
+
+
 
 
 
