@@ -4,9 +4,10 @@
 
 ### Author: Conor Tierney
 
-### Contents Table
+## Contents Table
 
 *File Description  
+
 *Weekly Tasks
   1. HelloWorld!
   2. bank.py
@@ -15,19 +16,21 @@
   5. weekday.py
   6. squareroot.py
   7. es.py
-  8. plottask.py
-* other/ refs/ readme file
-
+  8. plottask.py  
+  
+* README.md file resource
+* Software:  
 
 
 ### Description
-This readme file is related to the tasks outlined for the pands problem sheets for Programming and Scripting module in HDip in computing in Data Analytics.
+This readme file is related to the tasks outlined for the pands problem sheets for Programming and Scripting module in HDip in computing in Data Analytics at ATU.
 
 The file here will explain the code, input and output for each task. It will also reference any sources used to solve and test the tasks.
 
 Most of my problem solving for the tasks was gained throught practicing python coding in Andrew Beatty's lectures and weekley labs.
 
-VSCode sofware is used to code the programs.
+VSCode sofware is used to code the programs.  
+___
 
 
 ### Weekly Tasks
@@ -253,78 +256,47 @@ To count the number of lowercase letter "e" in the file, we use the `count()` me
 
 ***References/sources:***  
 
-[https://realpython.com/working-with-files-in-python/]
+[https://realpython.com/working-with-files-in-python/]  
 [https://www.w3schools.com/python/python_file_handling.asp]
 
 
 ___
 
+## plottask.py  
 
+This program is called plottask.py.  
 
+The task was to write a program that displays:
+* a histogram of a normal distribution of a 1000 values with a mean of 5 and standard deviation of 2, 
+* and a plot of the function  h(x)=x3 in the range [0,10],
+* on the one set of axes.
+* marks are be given for making the plot look nice (legend etc).  
 
+The code generates two distributions and displays them on a single graph. The first distribution is a normal distribution with 1000 values and a mean of 5 and a standard deviation of 2. This distribution is displayed as a histogram.
 
+The second distribution is an exponential distribution function defined as h(x) = x3, with x values ranging from 0 to 10. This distribution is also displayed on the same set of axes as the normal distribution histogram.
 
+To create and display the histogram, the code uses the Python libraries `NumPy` and `Matplotlib`. NumPy is used to generate the values for the normal distribution and Matplotlib is used to plot the histogram and the exponential distribution function on the same set of axes.
 
+The histogram is generated using the `plt.hist()` function and shown with the `plt.show()` function. The line graph is generated using the `plt.plot()` function and shown with the `plt.show()` function. The plots are displayed side by side using the `plt.subplot()` and `plt.subplots_adjust()` functions. The x and y axis labels and the titles of the plots are also defined using the `plt.xlabel(), plt.ylabel(), and plt.title()` functions.
 
 
+***user input***  
+`python plottask.py`
 
+**NOTE: This program is not currently working for me as I am getting an error message in the terminal**
+**OMP: Error #13: Assertion failure at kmp_affinity.cpp(532).***
 
 
+___
 
+## README.md file resource  
 
+[mark down guide](https://www.markdownguide.org/basic-syntax#headings)  
+(https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  
 
+___
 
+## Software:  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-# read me ref https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+* Visual Studio Code - version: 1.76.2  
