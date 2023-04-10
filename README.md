@@ -58,6 +58,9 @@ this is to avoid rounding errors.
  
 ***Note:*** the idea here is to break the task down into smaller parts as I am new to coding. Read in an integer first and print it back out, then read in the second integer and add the two. Then format the answer.
 
+Image of bank.py code from VSCode ( saved in issues on github)
+![image](https://user-images.githubusercontent.com/123323783/230906661-19ba745c-17e3-432d-afcf-6dd9284c2b0a.png)
+
 
 
 
