@@ -76,9 +76,11 @@ The program uses calculation of the given code based on the users in put of 2 nu
 ***output:***  
 `the sum of these is: €2.45`
 
-***References:***
-[W3 SCHOOLS](https://www.w3schools.com/python/python_numbers.asp)
-[Usinf f string](https://realpython.com/python-f-strings/)
+***References/sources:***  
+[W3 SCHOOLS](https://www.w3schools.com/python/python_numbers.asp)  
+[Using f string](https://realpython.com/python-f-strings/)  
+
+
 
 
 
