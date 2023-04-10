@@ -101,7 +101,7 @@ Part 2: The program is modified to deal with user input of an acoount of any len
 ***user calls:***  
 `python accounts.py`  
 
-***user input 1:*** 
+***user input 1:***  
 `Please enter a 10-digit account number:0987654321` 
 
 ***output:***    
