@@ -4,10 +4,9 @@
 
 ### Author: Conor Tierney
 
-## Contents Table
+### Contents Table
 
 *File Description
-
 *Weekly Tasks
   1. HelloWorld!
   2. bank.py
@@ -17,6 +16,7 @@
   6. squareroot.py
   7. es.py
   8. plottask.py
+* other/ refs
 
 
 
@@ -26,6 +26,19 @@ This readme file is related to the tasks outlined for the pands problem sheets f
 The file here will explain the code, input and output for each task. It will also reference any sources used to solve and test the tasks.
 
 Most of my problem solving for the tasks was gained throught practicing python coding in Andrew Beatty's lectures and weekley labs.
+
+
+### Weekly Tasks
+
+## *Hello World!*
+
+Task 1 of the PANDS Problem Sheet was download and istall the software needed for the module. These were cmder (windows), anaconda, vscode, git and notepad++. After the required software was insatlled on my machine i created my github account and two repositories called ''mywork'' and ''pands-problem-sheet".
+
+The pands-problem-sheet contains a python program that displays Hello World! when it is run. 
+
+VSCode sofware is used to code the program.
+
+
 
 
 
