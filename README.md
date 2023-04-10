@@ -113,6 +113,16 @@ Part 2: The program is modified to deal with user input of an acoount of any len
 ***output:***  
 `bankaccnumber:  XXXXXX`  
 
+***References/sources:***  
+[A Whirlwind Tour of Python]
+[geeksforgeeks.org](https://www.geeksforgeeks.org/string-slicing-in-python/)  
+
+___
+
+## collatz.py  
+
+
+
 
 
 
