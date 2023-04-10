@@ -132,12 +132,15 @@ In the program, I check if a number is odd or even by using another *while* loop
 If the number is even, it's divided by 2 and print the result. If the number is odd, it's multiplied by 3 and add 1, and then print the result.  
 
 ***user calls:***  
+`python collatz.py`
+
+***user input:***  
 `Please enter a positive number: 13`  
 
 ***output if positive number entered:***  
 `13 40 20 10 5 16 8 4 2 1`  
 
-***user calls:***  
+***user input:***  
 `Please enter a positive number: -12`  
 
 ***output if negative number entered:***  
@@ -173,7 +176,7 @@ The program will have different ouptputs depending on the day the prorgam is run
 
 It's important to run the program on both the weekday and weekend to get a correct result.  
 
-***user calls:***  
+***user input:***  
 `python weekday.py`  
 
 *this program does not requre any user input, it just outputs the result*  
@@ -209,14 +212,14 @@ Finally, the function is called and the resulting approximation is printed to th
 
 The program code is a simple implementation of the Newton-Raphson method for approximating the square root of a number.  
 
-***user calls:***
+***user input:***  
 `python squareroot.py`  
 
 ***output:***  
 `Please enter a positive number: 10`  
 `The square root of this is approx: 3.162277660168379`  
 
-***when a positive number is not entered***
+***when a positive number is not entered***  
 `incorrect,the number must be positive`  
 `Please enter a positive number:`  
 
@@ -226,6 +229,42 @@ The program code is a simple implementation of the Newton-Raphson method for app
 [youtube: the last minute professor](https://www.youtube.com/watch?v=xdlIFw5EM4w)  
 
 ___
+
+## es.py  
+
+This program is called es.py. It runs with a text file called `count_es.txt`  
+
+*The requirement is to write a program that reads in a text file and outputs the number of e's it contains.*  
+*The program should take the filename from an argument on the command line*
+
+The text file `count_es.txt` contains the text 'Hello there. My name is Conor.'  
+It contains the letter 'e' 4 times.
+
+The program reads in the file name `FILENAME = "count_es.txt"`  
+To read the file that we specified , we use the `open(filename, 'r')` function. This makes the file available for reading only. 
+To count the number of lowercase letter "e" in the file, we use the `count()` method with the argument "e" as a string.  
+
+
+***user input:***  
+`python es.py`  
+
+***output:***  
+`The file 'count_es.txt' contains the letter 'e' 4 times.`  
+
+***References/sources:***  
+
+[https://realpython.com/working-with-files-in-python/]
+[https://www.w3schools.com/python/python_file_handling.asp]
+
+
+___
+
+
+
+
+
+
+
 
 
 
