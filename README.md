@@ -1,8 +1,12 @@
 # Programming and Scripting 2023
 
+## Pands- Problem- Sheet
 
 
+This readme file is related to the tasks outlined for the pands problem sheets for Programming and Scripting module in HDip in computing in Data Analytics.
 
-This repository is used for the problem sets given during the Programming and scripting module on Higher Diploma in Data Analytics course from GMIT.
-Here I will explain how I came to the solution of given tasks, reference the sources I researched for solving the problems and list the technologies I used for creating and testing the code.
-I have previous knowledge and understanding of basics of coding in python so for some tasks I didn't require extensive research.
+The file here will explain the code, input and output for each task. It will also reference any sources used to solve and test the tasks.
+
+Most of my problem solving for the tasks was gained throught practicing python coding in Andrew Beatty's lectures and weekley labs.
+
+
