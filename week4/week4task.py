@@ -11,13 +11,19 @@
 # this is correct..
 
 
-n = int(input("Please enter a positive integer: ")) # ask user to input a positive integer
+number = int(input("Please enter a positive number: ")) 
 
-while n != 1:                                # while n is not equal to 1
-    print(n, end=" ")                       # print the value of n followed by a space
-    if n % 2 == 0:                          # if n is even
-        n = n // 2                          # divide n by 2
-    else:                                   # if n is odd
-        n = 3 * n + 1                         # multiply n by 3 and add 1
+while number < 1:
+        print (number, ":isn't a positive number.")
+        number = int(input ("Enter a positive number: "))           
+       
+                            
+print(number, end=" ")                       
 
-print(n,end=" ")                                    # print the final value of n, which is always 1
+while number > 1:
+    if number % 2 == 0:                          
+        number = number // 2                          
+        print (number ,end = " ")
+    else:                                   
+        number = 3 * number + 1                        
+        print (number,end = " ")  
