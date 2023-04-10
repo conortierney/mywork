@@ -207,7 +207,32 @@ When a positive number is entered, the function initializes a guess for the squa
 The loop continues until the difference between the new approximation and the previous approximation is less than *1e-9*, at which point the function returns the final approximation for the square root. 
 Finally, the function is called and the resulting approximation is printed to the console.
 
-The program code is a simple implementation of the Newton-Raphson method for approximating the square root of a number.
+The program code is a simple implementation of the Newton-Raphson method for approximating the square root of a number.  
+
+***user calls:***
+`python squareroot.py`  
+
+***output:***  
+`Please enter a positive number: 10`  
+`The square root of this is approx: 3.162277660168379`  
+
+***when a positive number is not entered***
+`incorrect,the number must be positive`  
+`Please enter a positive number:`  
+
+
+***References/sources:***  
+[tutorialsinhand.com](https://tutorialsinhand.com/Articles/python-program-to-find-square-root-of-a-number-using-newton-square-root-formula)  
+[youtube: the last minute professor](https://www.youtube.com/watch?v=xdlIFw5EM4w)  
+
+___
+
+
+
+
+
+
+
 
 
 
