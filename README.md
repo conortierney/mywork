@@ -90,8 +90,45 @@ This program is called accounts.py.
 *Write a python program called accounts.py that reads in a 10 character account number and outputs the account number with only the last 4 digits showing (and the first 6 digits replaced with Xs).*
 *Extra: Modify the program to deal with account numbers of any length*  
 
+Context: bank account numbers can be stored as 10 character strings, some applications only display the last 4 characters(digits) with the first 6 characters displayed as X's for security reasons.  
 
-Context: bank account numbers can be stored as 10 character strings, some applications only display the last 4 characters(digits) with the first 6 characters displayed as X's for security reasons.
+The 1st part of the program prompts the user to enter a 10 digit number. This is a string of 10 characters and not a 10 number string.
+The *if* statement checks that exactly 10 digits are entered, if not the program outputs and ERROR message.
+Then the *else* statement is used to print the account number with only the last 4 digits showing.  
+
+Part 2: The program is modified to deal with user input of an acoount of any length.  
+
+***user calls:*** 
+`python accounts.py  
+
+***user input 1:*** 
+`Please enter a 10-digit account number:0987654321  
+
+***output:***  
+`Bank account number:  XXXXXX4321`  
+
+***user input 2:***  
+`please enter an account number(any length):112233`  
+
+***output:***  
+`bankaccnumber:  XXXXXX`  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
