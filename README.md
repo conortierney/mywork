@@ -38,10 +38,10 @@ Task 1 of the PANDS Problem Sheet was download and istall the software needed fo
 
 The pands-problem-sheet contains a python program that displays ***Hello World!*** when it is run. This is task 1.
 
-***code***
+***code***  
 `print ("helloworld!")`
 
-*** user output***
+*** user output***  
 `helloworld!`
 
 
