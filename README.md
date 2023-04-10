@@ -169,6 +169,12 @@ Today is then defined if today is a weekday as an integer.
 `today = datetime.datetime.today().weekday()`  # where monday =0 and Sunday= 6.  
 
 The *if* statement is used to check if today is a weekday. If it is not a weekday when the program is run the *else* statement is used to let the user know it is a weekend day. 
+The program will have different ouptputs depending on the day the prorgan is run.
+
+
+
+
+
 
 
 
@@ -179,7 +185,28 @@ The *if* statement is used to check if today is a weekday. If it is not a weekda
 
 There it was found that by implementing date.weekday(), where Monday is 0 and Sunday is 6, it can easily be checked, with the help of if statement, whether today is weekday or weekend.
 
-It's important to run the program on both the weekday and weekend to get a correct result.
+It's important to run the program on both the weekday and weekend to get a correct result.  
+
+***user calls:***  
+`python weekday.py`  
+
+*this program does not requre any user input, it just outputs the result*  
+
+
+***If its run on a weekday, the program output is:***  
+`Oh no, today is a weekday, sorry!.`  
+
+***If its run at the weekend, the program output is:***  
+`Happy days, today is a weekend day.`  
+
+
+___
+
+## squareroot.py
+
+
+
+
 
 
 
