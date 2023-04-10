@@ -196,10 +196,10 @@ ___
 
 This program is called squareroot.py  
 
-* The program that takes a positive floating-point number as input and outputs an approximation of its square root.*  
-* The task asks to create your own sqrt function and not to use the built in functions x ** .5 or math.sqrt(x).*
-* This is to demonstrate that you can research and code a process.*
-* It is suggested suggested to look at the newton method at estimating square roots*  
+* *The program that takes a positive floating-point number as input and outputs an approximation of its square root.*  
+* *The task asks to create your own sqrt function and not to use the built in functions x ** .5 or math.sqrt(x).*
+* *This is to demonstrate that you can research and code a process.*
+* *It is suggested suggested to look at the newton method at estimating square roots*  
 
 
 The code defines a function called sqrt `def sqrt():` that calculates the square root of a positive number entered by the user. The function uses a *while* loop to prompt the user to enter a positive number and to ensure that the entered number is positive. 
