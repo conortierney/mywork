@@ -29,6 +29,8 @@
 
 #my references
 
+https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html
+
 https://www.geeksforgeeks.org/box-plot-and-histogram-exploration-on-iris-data/
 
 https://www.geeksforgeeks.org/python-basics-of-pandas-using-iris-dataset/?ref=lbp
