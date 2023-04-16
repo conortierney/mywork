@@ -13,6 +13,9 @@
 # explain what investigating a data set entails and how
 # Python can be used to do it. 
 
+# summarise the project plan in your README. near the start
+
+
 
 
 
@@ -36,3 +39,5 @@ https://www.geeksforgeeks.org/box-plot-and-histogram-exploration-on-iris-data/
 https://www.geeksforgeeks.org/python-basics-of-pandas-using-iris-dataset/?ref=lbp
 
 https://www.angela1c.com/projects/iris_project/downloading-iris/#:~:text=The%20Iris%20Data%20Set%20is,described%20above%20in%20section%202.
+
+https://archive.ics.uci.edu/ml/datasets/iris
